@@ -1,0 +1,14 @@
+C:\Users\Angel Valencia\source\repos\numero medio\numero medio\bin\Debug\netcoreapp3.1\numero medio.exe
+C:\Users\Angel Valencia\source\repos\numero medio\numero medio\bin\Debug\netcoreapp3.1\numero medio.deps.json
+C:\Users\Angel Valencia\source\repos\numero medio\numero medio\bin\Debug\netcoreapp3.1\numero medio.runtimeconfig.json
+C:\Users\Angel Valencia\source\repos\numero medio\numero medio\bin\Debug\netcoreapp3.1\numero medio.runtimeconfig.dev.json
+C:\Users\Angel Valencia\source\repos\numero medio\numero medio\bin\Debug\netcoreapp3.1\numero medio.dll
+C:\Users\Angel Valencia\source\repos\numero medio\numero medio\bin\Debug\netcoreapp3.1\numero medio.pdb
+C:\Users\Angel Valencia\source\repos\numero medio\numero medio\obj\Debug\netcoreapp3.1\numero medio.csproj.AssemblyReference.cache
+C:\Users\Angel Valencia\source\repos\numero medio\numero medio\obj\Debug\netcoreapp3.1\numero medio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Valencia\source\repos\numero medio\numero medio\obj\Debug\netcoreapp3.1\numero medio.AssemblyInfoInputs.cache
+C:\Users\Angel Valencia\source\repos\numero medio\numero medio\obj\Debug\netcoreapp3.1\numero medio.AssemblyInfo.cs
+C:\Users\Angel Valencia\source\repos\numero medio\numero medio\obj\Debug\netcoreapp3.1\numero medio.csproj.CoreCompileInputs.cache
+C:\Users\Angel Valencia\source\repos\numero medio\numero medio\obj\Debug\netcoreapp3.1\numero medio.dll
+C:\Users\Angel Valencia\source\repos\numero medio\numero medio\obj\Debug\netcoreapp3.1\numero medio.pdb
+C:\Users\Angel Valencia\source\repos\numero medio\numero medio\obj\Debug\netcoreapp3.1\numero medio.genruntimeconfig.cache
